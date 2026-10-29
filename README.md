@@ -2,7 +2,7 @@
 
 Ask questions about the annual reports (10-K) of **Apple, Microsoft, Alphabet, Amazon and Tesla** and get answers that come **only from the reports**, with sources you can open and check.
 
-![FilingLens chat screen](docs/screenshot.png)
+![FilingLens chat screen](docs/SS1.png)
 
 ## What it does
 
