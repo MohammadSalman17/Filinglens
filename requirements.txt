@@ -1,0 +1,10 @@
+pymupdf
+beautifulsoup4
+lxml
+requests
+sec-edgar-downloader
+python-dotenv
+sentence-transformers
+chromadb
+rank-bm25
+google-genai

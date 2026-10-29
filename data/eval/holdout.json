@@ -1,0 +1,139 @@
+[
+  {
+    "question": "What was Apple's total net sales in fiscal 2025?",
+    "ticker": "AAPL",
+    "keywords": [
+      "416,161"
+    ],
+    "report": "AAPL_FY25",
+    "type": "table",
+    "tag": "normal"
+  },
+  {
+    "question": "How much were Apple's Services net sales in 2025?",
+    "ticker": "AAPL",
+    "keywords": [
+      "Services",
+      "109,158"
+    ],
+    "report": "AAPL_FY25",
+    "type": "table",
+    "tag": "normal"
+  },
+  {
+    "question": "What was Apple's net income in fiscal 2023?",
+    "ticker": "AAPL",
+    "keywords": [
+      "Net income",
+      "96,995"
+    ],
+    "report": "AAPL_FY24",
+    "type": "table",
+    "tag": "year_fallback"
+  },
+  {
+    "question": "What were Amazon's total net sales in 2023?",
+    "ticker": "AMZN",
+    "keywords": [
+      "574,785"
+    ],
+    "report": "AMZN_FY24",
+    "type": "table",
+    "tag": "year_fallback"
+  },
+  {
+    "question": "What were Amazon's net service sales in 2025?",
+    "ticker": "AMZN",
+    "keywords": [
+      "Net service sales",
+      "420,658"
+    ],
+    "report": "AMZN_FY25",
+    "type": "table",
+    "tag": "normal"
+  },
+  {
+    "question": "What were Alphabet's Other Bets revenues in 2025?",
+    "ticker": "GOOGL",
+    "keywords": [
+      "Other Bets",
+      "1,537"
+    ],
+    "report": "GOOGL_FY25",
+    "type": "table",
+    "tag": "normal"
+  },
+  {
+    "question": "What does Gemini Enterprise do?",
+    "ticker": "GOOGL",
+    "keywords": [
+      "Gemini Enterprise",
+      "AI agents"
+    ],
+    "report": "GOOGL_FY25",
+    "type": "text",
+    "tag": "no_company_word"
+  },
+  {
+    "question": "What is included in Microsoft's XBOX business?",
+    "ticker": "MSFT",
+    "keywords": [
+      "XBOX Game Pass"
+    ],
+    "report": "MSFT_FY26",
+    "type": "text",
+    "tag": "no_year"
+  },
+  {
+    "question": "What was the revenue of Microsoft's Productivity and Business Processes segment in fiscal year 2026?",
+    "ticker": "MSFT",
+    "keywords": [
+      "Productivity and Business Processes",
+      "139,996"
+    ],
+    "report": "MSFT_FY26",
+    "type": "table",
+    "tag": "normal"
+  },
+  {
+    "question": "What was Microsoft's total revenue in fiscal 2026 compared with fiscal 2025?",
+    "ticker": "MSFT",
+    "keywords": [
+      "331,839",
+      "281,724"
+    ],
+    "report": "MSFT_FY26",
+    "type": "table",
+    "tag": "two_years"
+  },
+  {
+    "question": "What are Powerwall and Megapack?",
+    "ticker": "TSLA",
+    "keywords": [
+      "Powerwall and Megapack are our lithium-ion battery energy storage products"
+    ],
+    "report": "TSLA_FY25",
+    "type": "text",
+    "tag": "no_company_word"
+  },
+  {
+    "question": "How many people work at Tesla?",
+    "ticker": "TSLA",
+    "keywords": [
+      "134,785"
+    ],
+    "report": "TSLA_FY25",
+    "type": "fact",
+    "tag": "no_year"
+  },
+  {
+    "question": "How did Tesla's total revenues change between 2024 and 2025?",
+    "ticker": "TSLA",
+    "keywords": [
+      "decrease of $2.86 billion"
+    ],
+    "report": "TSLA_FY25",
+    "type": "fact",
+    "tag": "two_years"
+  }
+]

@@ -1,0 +1,426 @@
+[
+  {
+    "question": "How many full-time equivalent employees did Apple have as of September 28, 2024?",
+    "ticker": "AAPL",
+    "keywords": [
+      "164,000",
+      "full-time equivalent"
+    ],
+    "report": "AAPL_FY24",
+    "type": "fact"
+  },
+  {
+    "question": "How many full-time equivalent employees did Apple have as of September 27, 2025?",
+    "ticker": "AAPL",
+    "keywords": [
+      "166,000",
+      "full-time equivalent"
+    ],
+    "report": "AAPL_FY25",
+    "type": "fact"
+  },
+  {
+    "question": "What share of Apple's 2024 net sales came through direct and indirect distribution channels?",
+    "ticker": "AAPL",
+    "keywords": [
+      "38% and 62%"
+    ],
+    "report": "AAPL_FY24",
+    "type": "fact"
+  },
+  {
+    "question": "What share of Apple's 2025 net sales came through direct and indirect distribution channels?",
+    "ticker": "AAPL",
+    "keywords": [
+      "40% and 60%"
+    ],
+    "report": "AAPL_FY25",
+    "type": "fact"
+  },
+  {
+    "question": "What are Apple's reportable segments?",
+    "ticker": "AAPL",
+    "keywords": [
+      "Americas, Europe, Greater China, Japan and Rest of Asia Pacific"
+    ],
+    "report": "AAPL_FY25",
+    "type": "text"
+  },
+  {
+    "question": "How much common stock did Apple repurchase during 2025?",
+    "ticker": "AAPL",
+    "keywords": [
+      "$89.3 billion"
+    ],
+    "report": "AAPL_FY25",
+    "type": "fact"
+  },
+  {
+    "question": "To what amount did Apple raise its quarterly dividend in May 2025?",
+    "ticker": "AAPL",
+    "keywords": [
+      "$0.26 per share"
+    ],
+    "report": "AAPL_FY25",
+    "type": "fact"
+  },
+  {
+    "question": "What was Apple's net income for fiscal 2024?",
+    "ticker": "AAPL",
+    "keywords": [
+      "Net income",
+      "93,736"
+    ],
+    "report": "AAPL_FY24",
+    "type": "table"
+  },
+  {
+    "question": "What is the Digital Markets Act investigation involving Apple about?",
+    "ticker": "AAPL",
+    "keywords": [
+      "Article 5(4) Investigation"
+    ],
+    "report": "AAPL_FY25",
+    "type": "text"
+  },
+  {
+    "question": "What risks does Apple face from relying on single-source outsourcing partners?",
+    "ticker": "AAPL",
+    "keywords": [
+      "single-source outsourcing partners"
+    ],
+    "report": "AAPL_FY24",
+    "type": "text"
+  },
+  {
+    "question": "How many employees did Alphabet have as of December 31, 2024?",
+    "ticker": "GOOGL",
+    "keywords": [
+      "183,323"
+    ],
+    "report": "GOOGL_FY24",
+    "type": "fact"
+  },
+  {
+    "question": "How many employees did Alphabet have as of December 31, 2025?",
+    "ticker": "GOOGL",
+    "keywords": [
+      "190,820"
+    ],
+    "report": "GOOGL_FY25",
+    "type": "fact"
+  },
+  {
+    "question": "What were Alphabet's total revenues in 2024?",
+    "ticker": "GOOGL",
+    "keywords": [
+      "Total revenues",
+      "350,018"
+    ],
+    "report": "GOOGL_FY24",
+    "type": "table"
+  },
+  {
+    "question": "What were Alphabet's total revenues in 2025?",
+    "ticker": "GOOGL",
+    "keywords": [
+      "Total revenues",
+      "402,836"
+    ],
+    "report": "GOOGL_FY25",
+    "type": "table"
+  },
+  {
+    "question": "What was Google Cloud revenue in 2025?",
+    "ticker": "GOOGL",
+    "keywords": [
+      "Google Cloud",
+      "58,705"
+    ],
+    "report": "GOOGL_FY25",
+    "type": "table"
+  },
+  {
+    "question": "What was Alphabet's total income from operations in 2024?",
+    "ticker": "GOOGL",
+    "keywords": [
+      "112,390"
+    ],
+    "report": "GOOGL_FY24",
+    "type": "table"
+  },
+  {
+    "question": "What was Alphabet's net income and diluted EPS in 2024?",
+    "ticker": "GOOGL",
+    "keywords": [
+      "100,118"
+    ],
+    "report": "GOOGL_FY24",
+    "type": "table"
+  },
+  {
+    "question": "What share of Alphabet's 2025 revenues came from online advertising?",
+    "ticker": "GOOGL",
+    "keywords": [
+      "70% of total revenues from online advertising"
+    ],
+    "report": "GOOGL_FY25",
+    "type": "text"
+  },
+  {
+    "question": "What was the operating income of the Google Services segment in 2024?",
+    "ticker": "GOOGL",
+    "keywords": [
+      "Google Services",
+      "121,263"
+    ],
+    "report": "GOOGL_FY24",
+    "type": "table"
+  },
+  {
+    "question": "What antitrust lawsuits has the Department of Justice filed against Google?",
+    "ticker": "GOOGL",
+    "keywords": [
+      "Department of Justice",
+      "antitrust lawsuits"
+    ],
+    "report": "GOOGL_FY25",
+    "type": "text"
+  },
+  {
+    "question": "How many full-time and part-time employees did Amazon have as of December 31, 2025?",
+    "ticker": "AMZN",
+    "keywords": [
+      "1,576,000"
+    ],
+    "report": "AMZN_FY25",
+    "type": "fact"
+  },
+  {
+    "question": "How many full-time and part-time employees did Amazon have as of December 31, 2024?",
+    "ticker": "AMZN",
+    "keywords": [
+      "1,556,000"
+    ],
+    "report": "AMZN_FY24",
+    "type": "fact"
+  },
+  {
+    "question": "What was Amazon's total net sales in 2025?",
+    "ticker": "AMZN",
+    "keywords": [
+      "Total net sales",
+      "716,924"
+    ],
+    "report": "AMZN_FY25",
+    "type": "table"
+  },
+  {
+    "question": "What was Amazon's total net sales in 2024?",
+    "ticker": "AMZN",
+    "keywords": [
+      "Total net sales",
+      "637,959"
+    ],
+    "report": "AMZN_FY24",
+    "type": "table"
+  },
+  {
+    "question": "What are Amazon's three business segments?",
+    "ticker": "AMZN",
+    "keywords": [
+      "three segments: North America, International, and Amazon Web Services"
+    ],
+    "report": "AMZN_FY25",
+    "type": "text"
+  },
+  {
+    "question": "What was Amazon's operating income by segment in 2025?",
+    "ticker": "AMZN",
+    "keywords": [
+      "North America",
+      "29,619",
+      "45,606"
+    ],
+    "report": "AMZN_FY25",
+    "type": "table"
+  },
+  {
+    "question": "What were AWS net sales in 2025?",
+    "ticker": "AMZN",
+    "keywords": [
+      "AWS",
+      "128,725"
+    ],
+    "report": "AMZN_FY25",
+    "type": "table"
+  },
+  {
+    "question": "What lawsuit did Amazon settle with the FTC in 2025?",
+    "ticker": "AMZN",
+    "keywords": [
+      "lawsuit with the Federal Trade Commission"
+    ],
+    "report": "AMZN_FY25",
+    "type": "text"
+  },
+  {
+    "question": "How many people did Microsoft employ as of June 30, 2026?",
+    "ticker": "MSFT",
+    "keywords": [
+      "223,000"
+    ],
+    "report": "MSFT_FY26",
+    "type": "fact"
+  },
+  {
+    "question": "What was Microsoft's total revenue and operating income in fiscal year 2026?",
+    "ticker": "MSFT",
+    "keywords": [
+      "331,839",
+      "155,237"
+    ],
+    "report": "MSFT_FY26",
+    "type": "table"
+  },
+  {
+    "question": "What was Microsoft's total revenue in fiscal year 2025?",
+    "ticker": "MSFT",
+    "keywords": [
+      "Total Revenue",
+      "281,724"
+    ],
+    "report": "MSFT_FY25",
+    "type": "table"
+  },
+  {
+    "question": "By how much did Microsoft Cloud revenue grow in fiscal year 2025?",
+    "ticker": "MSFT",
+    "keywords": [
+      "Microsoft Cloud revenue increased 23% to $168.9 billion"
+    ],
+    "report": "MSFT_FY25",
+    "type": "fact"
+  },
+  {
+    "question": "By how much did Microsoft Cloud revenue grow in fiscal year 2026?",
+    "ticker": "MSFT",
+    "keywords": [
+      "Microsoft Cloud revenue increased 27% to $214.4 billion"
+    ],
+    "report": "MSFT_FY26",
+    "type": "fact"
+  },
+  {
+    "question": "How fast did Azure and other cloud services revenue grow in fiscal year 2025?",
+    "ticker": "MSFT",
+    "keywords": [
+      "Azure and other cloud services revenue growth of 34%"
+    ],
+    "report": "MSFT_FY25",
+    "type": "fact"
+  },
+  {
+    "question": "How fast did Azure and other cloud services revenue grow in fiscal year 2026?",
+    "ticker": "MSFT",
+    "keywords": [
+      "Azure and other cloud services revenue increased 41%"
+    ],
+    "report": "MSFT_FY26",
+    "type": "fact"
+  },
+  {
+    "question": "What are Microsoft's three reportable segments?",
+    "ticker": "MSFT",
+    "keywords": [
+      "Productivity and Business Processes, Intelligent Cloud, and More Personal Computing"
+    ],
+    "report": "MSFT_FY26",
+    "type": "text"
+  },
+  {
+    "question": "What does Microsoft say about its partnership with OpenAI?",
+    "ticker": "MSFT",
+    "keywords": [
+      "long-term strategic partnership with OpenAI"
+    ],
+    "report": "MSFT_FY26",
+    "type": "text"
+  },
+  {
+    "question": "How many employees did Tesla have worldwide as of December 31, 2025?",
+    "ticker": "TSLA",
+    "keywords": [
+      "134,785"
+    ],
+    "report": "TSLA_FY25",
+    "type": "fact"
+  },
+  {
+    "question": "What were Tesla's total revenues and net income in 2025?",
+    "ticker": "TSLA",
+    "keywords": [
+      "$94.83 billion",
+      "$3.79 billion"
+    ],
+    "report": "TSLA_FY25",
+    "type": "fact"
+  },
+  {
+    "question": "What were Tesla's total revenues and net income in 2024?",
+    "ticker": "TSLA",
+    "keywords": [
+      "$97.69 billion",
+      "$7.09 billion"
+    ],
+    "report": "TSLA_FY24",
+    "type": "fact"
+  },
+  {
+    "question": "How much energy storage did Tesla deploy in 2024?",
+    "ticker": "TSLA",
+    "keywords": [
+      "31.4 GWh"
+    ],
+    "report": "TSLA_FY24",
+    "type": "fact"
+  },
+  {
+    "question": "What was Tesla's energy generation and storage segment revenue in 2025?",
+    "ticker": "TSLA",
+    "keywords": [
+      "Energy generation and storage segment revenue",
+      "12,771"
+    ],
+    "report": "TSLA_FY25",
+    "type": "table"
+  },
+  {
+    "question": "Which consumer vehicles does Tesla currently manufacture?",
+    "ticker": "TSLA",
+    "keywords": [
+      "five different consumer vehicles"
+    ],
+    "report": "TSLA_FY25",
+    "type": "text"
+  },
+  {
+    "question": "What did Tesla do with its Cortex training cluster at Gigafactory Texas?",
+    "ticker": "TSLA",
+    "keywords": [
+      "Cortex",
+      "Gigafactory Texas"
+    ],
+    "report": "TSLA_FY25",
+    "type": "text"
+  },
+  {
+    "question": "When did Tesla launch its Robotaxi service?",
+    "ticker": "TSLA",
+    "keywords": [
+      "In June 2025, we launched our Robotaxi service"
+    ],
+    "report": "TSLA_FY25",
+    "type": "text"
+  }
+]

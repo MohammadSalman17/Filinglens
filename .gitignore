@@ -1,0 +1,17 @@
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+data/raw/
+data/processed/
+data/tracking/
+data/chats/
+data/eval/answers*.json
+vectorstore/
+*.zip
+freeze.txt
+deploy_to_hf.py
+src/icon.png
+src/check_env.py
+src/test_gemini.py
